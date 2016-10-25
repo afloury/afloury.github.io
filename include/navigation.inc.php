@@ -15,7 +15,7 @@
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav">
                     <li>
-                        <a href="../index.php">Accueil</a>
+                        <a href="../index.html">Accueil</a>
                     </li>
                     <li>
                         <a href="cv.php">CV</a>
