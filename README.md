@@ -1,7 +1,7 @@
-# afloury.github.io
-or
-# http://floury.tk/
+# Portfolio BTS SIO Antoine FLOURY
 
-Portfolio BTS SIO Antoine FLOURY
+## http://floury.tk/
+or
+## https://afloury.github.io
 
 
