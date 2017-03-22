@@ -1,7 +1,7 @@
 # Portfolio BTS SIO Antoine FLOURY
 
-## http://floury.tk/
+https://afloury.github.io
 or
-## https://afloury.github.io
+http://floury.tk/
 
 
