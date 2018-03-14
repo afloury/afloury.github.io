@@ -1,5 +1,3 @@
-https://afloury.github.io  
-or  
-http://floury.tk/
+https://afloury.github.io or http://floury.tk/
 
 
